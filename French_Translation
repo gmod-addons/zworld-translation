@@ -1,4 +1,4 @@
--- French translation for Zworld : https://osgmod.com/gmod-scripts/3945/zworld-gamemode-single-multiplayer
+-- French translation for the gamemode Zworld : https://osgmod.com/fr/gmod-scripts/3945/zworld-gamemode-single-multiplayer
 
 local French_Translation={
 g9="Continuer",
